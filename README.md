@@ -4,3 +4,9 @@
 ##### The repository consists of :-
 - Cars Sales purchasing Dataset
 - Jupyter Notebook 
+
+##### Steps:-
+1. Download Zip file or clone https://github.com/mayuripatkar/ANN-Car-Sales-Purchasing.git
+2. Run project on Jupyter Notebook.
+
+This project covers the basics of Artificial neural network.
